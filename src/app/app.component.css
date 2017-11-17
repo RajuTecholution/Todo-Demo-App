@@ -1,0 +1,8 @@
+.container {
+    background-color: #ece9e9;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}

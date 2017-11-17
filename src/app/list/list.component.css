@@ -1,0 +1,13 @@
+
+
+.list {
+    border: 1px solid lightgrey;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.section{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,9 @@
+<div class="section">
+
+    <h2> Please find the below Status</h2>
+
+    <ul class="list" *ngFor="let jira of listOfJiraTickets">
+      <li>{{jira.name}}- {{jira.description}}- {{statusJira[jira.status]}}</li>
+    </ul>
+
+</div>
